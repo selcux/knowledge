@@ -6,7 +6,3 @@
 
 * [Programming Languages](programming-languages/programming-languages.md)
 
-## Go
-
-* [Go](go/go.md)
-
