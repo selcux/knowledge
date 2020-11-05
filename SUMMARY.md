@@ -6,4 +6,6 @@
   * [Rust](programming-languages/rust.md)
   * [Scala](programming-languages/scala.md)
   * [Elixir](programming-languages/elixir.md)
+* [Programming](programming.md)
+* [Functional Programming](functional-programming.md)
 
