@@ -9,6 +9,8 @@
   * [Rust](software-development/programming-languages/rust.md)
   * [Scala](software-development/programming-languages/scala.md)
   * [Elixir](software-development/programming-languages/elixir.md)
+  * [Haskell](software-development/programming-languages/haskell.md)
+  * [OCaml](software-development/programming-languages/ocaml.md)
 * [Programming](software-development/programming/README.md)
   * [Functional Programming](software-development/programming/functional-programming.md)
 
