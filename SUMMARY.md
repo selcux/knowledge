@@ -13,6 +13,7 @@
   * [OCaml](software-development/programming-languages/ocaml.md)
 * [Programming](software-development/programming/README.md)
   * [Functional Programming](software-development/programming/functional-programming.md)
+  * [Visual Programming](software-development/programming/visual-programming.md)
 
 ## Tools
 
