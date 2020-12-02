@@ -12,6 +12,8 @@
   * [Elixir](software-development/programming-languages/elixir.md)
   * [Haskell](software-development/programming-languages/haskell.md)
   * [OCaml](software-development/programming-languages/ocaml.md)
+  * [Clojure](software-development/programming-languages/clojure.md)
+  * [Racket](software-development/programming-languages/racket.md)
 * [Programming](software-development/programming/README.md)
   * [Functional Programming](software-development/programming/functional-programming.md)
   * [Visual Programming](software-development/programming/visual-programming.md)
