@@ -15,6 +15,7 @@
   * [Lisp](software-development/programming-languages/lisp/README.md)
     * [Racket](software-development/programming-languages/lisp/racket.md)
     * [Clojure](software-development/programming-languages/lisp/clojure.md)
+  * [C++](software-development/programming-languages/c++.md)
 * [Programming](software-development/programming/README.md)
   * [Functional Programming](software-development/programming/functional-programming.md)
   * [Visual Programming](software-development/programming/visual-programming.md)
