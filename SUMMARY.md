@@ -24,4 +24,5 @@
 
 * [Editors](tools/editors/README.md)
   * [Emacs](tools/editors/emacs.md)
+* [Terminal](tools/terminal.md)
 
