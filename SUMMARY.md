@@ -26,3 +26,7 @@
   * [Emacs](tools/editors/emacs.md)
 * [Terminal](tools/terminal.md)
 
+## AI
+
+* [Deep Larning](ai/deep-larning.md)
+
