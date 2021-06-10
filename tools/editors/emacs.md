@@ -11,3 +11,7 @@ Links:
 * [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs)
 * [Emacs is sexy](https://emacs.sexy/)
 
+Configurations:
+
+* [GuangTao’s Doom Emacs config](https://www.gtrun.org/custom/config.html)
+
